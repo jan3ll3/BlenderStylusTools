@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "pen_stylus_pan"
+version = "1.0.0"
+name = "Pen Stylus Pan"
+tagline = "Use stylus eraser for view panning and rotation in 3D viewport"
+maintainer = "Your Name <your.email@example.com>"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
+# Since we're using Windows Ink API, we should specify Windows platform
+platforms = ["windows-x64", "windows-arm64"] 
