@@ -1,9 +1,9 @@
 schema_version = "1.0.0"
 id = "pen_stylus_pan"
-version = "1.0.0"
+version = "1.0.1"
 name = "Pen Stylus Pan"
 tagline = "Use stylus eraser for view panning and rotation in 3D viewport"
-maintainer = "Your Name <your.email@example.com>"
+maintainer = "jan3ll3"
 type = "add-on"
 
 blender_version_min = "4.2.0"
